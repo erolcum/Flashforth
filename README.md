@@ -13,5 +13,6 @@ translate widget on the left side.
 <br>
 <img width="500" height="222" alt="image" src="https://github.com/user-attachments/assets/429604a6-5106-4b9d-93fa-23459cf535ad" />
 <br>
-![i2c_interface](https://github.com/erolcum/Flashforth/blob/main/i2c.png).
+<img width="500" alt="image" src="https://github.com/erolcum/Flashforth/blob/main/i2c.png" />
+
 
