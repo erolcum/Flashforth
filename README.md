@@ -11,7 +11,7 @@ you can translate my blog page to your language easily by using the<br>
 translate widget on the left side.
 
 <br>
-<img width="500" height="222" alt="image" src="https://github.com/user-attachments/assets/429604a6-5106-4b9d-93fa-23459cf535ad" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/429604a6-5106-4b9d-93fa-23459cf535ad" />
 <br>
 <img width="500" alt="image" src="https://github.com/erolcum/Flashforth/blob/main/i2c.png" />
 
