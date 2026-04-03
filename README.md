@@ -1,7 +1,7 @@
 # Flashforth
 some forth programs for arduino
 
-<img width="418" height="261" alt="image" src="https://github.com/user-attachments/assets/5c65b628-9cf7-4d26-ac2a-6298ee75f4d8" />
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/5c65b628-9cf7-4d26-ac2a-6298ee75f4d8" />
 
 I explained on my blog how to easily upload flashforth firmware to Arduino :<br>
 https://erolcum.blogspot.com/2026/03/flashforth-tantm.html
