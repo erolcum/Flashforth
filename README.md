@@ -1,7 +1,7 @@
 # Flashforth
 some forth programs for arduino
-<p align="center">
-<img width="300" alt="image" src="https://github.com/user-attachments/assets/5c65b628-9cf7-4d26-ac2a-6298ee75f4d8" /><br>
+
+<img width="200" alt="image" src="https://github.com/user-attachments/assets/5c65b628-9cf7-4d26-ac2a-6298ee75f4d8" /><br>
 
 I explained on my blog how to easily upload flashforth firmware to Arduino :<br>
 https://erolcum.blogspot.com/2026/03/flashforth-tantm.html
@@ -11,7 +11,7 @@ terminal program on your computer.
 
 you can translate my blog page to your language easily by using the<br>
 translate widget on the left side.
-</p>
+
 
 <br>
 <p align="center">
