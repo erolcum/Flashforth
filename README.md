@@ -1,7 +1,7 @@
 # Flashforth
 some forth programs for arduino
 
-<img width="200" alt="image" src="https://github.com/user-attachments/assets/5c65b628-9cf7-4d26-ac2a-6298ee75f4d8" /><br>
+<img width="150" alt="image" src="https://github.com/user-attachments/assets/5c65b628-9cf7-4d26-ac2a-6298ee75f4d8" /><br>
 
 I explained on my blog how to easily upload flashforth firmware to Arduino :<br>
 https://erolcum.blogspot.com/2026/03/flashforth-tantm.html
@@ -15,9 +15,9 @@ translate widget on the left side.
 
 <br>
 <p align="center">
-<img width="300" alt="image" src="https://github.com/user-attachments/assets/429604a6-5106-4b9d-93fa-23459cf535ad" />
+<img width="200" alt="image" src="https://github.com/user-attachments/assets/429604a6-5106-4b9d-93fa-23459cf535ad" />
 <br>
-<img width="370" alt="image" src="https://github.com/erolcum/Flashforth/blob/main/i2c.png" /><br>
+<img width="246" alt="image" src="https://github.com/erolcum/Flashforth/blob/main/i2c.png" /><br>
 LCD1602 with i2c interface
 </p>
 
