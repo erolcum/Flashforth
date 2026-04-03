@@ -6,3 +6,6 @@ https://erolcum.blogspot.com/2026/03/flashforth-tantm.html
 
 you can translate my blog page to your language easily by using the<br>
 translate widget on the left side.
+
+<br>
+<img width="615" height="273" alt="image" src="https://github.com/user-attachments/assets/429604a6-5106-4b9d-93fa-23459cf535ad" />
