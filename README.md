@@ -17,7 +17,6 @@ translate widget on the left side.
 <p align="center">
 <img width="200" alt="image" src="https://github.com/user-attachments/assets/429604a6-5106-4b9d-93fa-23459cf535ad" />
 <br>
-<img width="246" alt="image" src="https://github.com/erolcum/Flashforth/blob/main/i2c.png" /><br>
 LCD1602 with i2c module
 </p>
 
