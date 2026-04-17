@@ -16,7 +16,6 @@ translate widget on the left side.
 <br>
 <img width="200" alt="image" src="https://github.com/user-attachments/assets/429604a6-5106-4b9d-93fa-23459cf535ad" />
 <br>
-LCD1602 with i2c module
 
 
 
